@@ -1,0 +1,272 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+
+# ファイルマーク:
+'0  2  29  /etc/init.d/Makefile
+|4,48,2,29,1618112979,"/etc/init.d/Makefile"
+'1  2  24  /etc/init.d/Makefile
+|4,49,2,24,1618105331,"/etc/init.d/Makefile"
+'2  5  0  /etc/init.d/Makefile
+|4,50,5,0,1618104740,"/etc/init.d/Makefile"
+'3  5  0  /etc/init.d/Makefile
+|4,51,5,0,1618104740,"/etc/init.d/Makefile"
+'4  5  0  /etc/init.d/Makefile
+|4,52,5,0,1618104740,"/etc/init.d/Makefile"
+'5  5  0  /etc/init.d/Makefile
+|4,53,5,0,1618104740,"/etc/init.d/Makefile"
+'6  5  0  /etc/init.d/Makefile
+|4,54,5,0,1618104734,"/etc/init.d/Makefile"
+'7  5  0  /etc/init.d/Makefile
+|4,55,5,0,1618104734,"/etc/init.d/Makefile"
+'8  5  0  /etc/init.d/Makefile
+|4,56,5,0,1618104734,"/etc/init.d/Makefile"
+'9  5  0  /etc/init.d/Makefile
+|4,57,5,0,1618104734,"/etc/init.d/Makefile"
+
+# ジャンプリスト (新しいものが先):
+-'  2  29  /etc/init.d/Makefile
+|4,39,2,29,1618112979,"/etc/init.d/Makefile"
+-'  2  24  /etc/init.d/Makefile
+|4,39,2,24,1618105331,"/etc/init.d/Makefile"
+-'  5  0  /etc/init.d/Makefile
+|4,39,5,0,1618105301,"/etc/init.d/Makefile"
+-'  5  0  /etc/init.d/Makefile
+|4,39,5,0,1618105301,"/etc/init.d/Makefile"
+-'  5  0  /etc/init.d/Makefile
+|4,39,5,0,1618104740,"/etc/init.d/Makefile"
+-'  5  0  /etc/init.d/Makefile
+|4,39,5,0,1618104734,"/etc/init.d/Makefile"
+-'  1  0  /etc/init.d/Makefile
+|4,39,1,0,1618104593,"/etc/init.d/Makefile"
+-'  1  0  /etc/init.d/Makefile
+|4,39,1,0,1618104593,"/etc/init.d/Makefile"
+-'  1  0  /etc/init.d/Makefile
+|4,39,1,0,1618104593,"/etc/init.d/Makefile"
+-'  1  0  /etc/init.d/Makefile
+|4,39,1,0,1618104593,"/etc/init.d/Makefile"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  16  36  /etc/netplan/50-cloud-init.yaml
+|4,39,16,36,1596755739,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755726,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+-'  17  29  /etc/netplan/50-cloud-init.yaml
+|4,39,17,29,1596755719,"/etc/netplan/50-cloud-init.yaml"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> /etc/init.d/Makefile
+	*	1618112976	0
+	"	2	29
+	^	2	30
+	.	2	29
+	+	8	25
+	+	5	0
+	+	2	29
+
+> /etc/netplan/50-cloud-init.yaml
+	*	1596754844	0
+	"	18	13
+	^	12	12
+	.	12	11
+	+	16	37
+	+	17	47
+	+	16	36
+	+	17	29
+	+	16	36
+	+	15	26
+	+	16	37
+	+	12	11
